@@ -73,5 +73,18 @@
 
 ---
 
-## Auteur
-Nadim Coindet — Master 1 Mathématiques, Sorbonne Université
+## 📚 Ce que ce projet met en évidence
+
+- Les cryptomonnaies présentent un niveau de risque significativement supérieur aux actifs actions traditionnels
+- Les distributions de rendements financiers s’écartent souvent d’une loi normale classique, en particulier sur les actifs très volatils
+- Les mesures de risque extrême comme la Value-at-Risk et l’Expected Shortfall sont essentielles pour analyser les événements rares mais sévères
+- Les corrélations entre actifs jouent un rôle central dans la diversification d’un portefeuille
+- Un actif risqué peut malgré tout contribuer à la diversification lorsqu’il est intégré de manière contrôlée
+
+---
+
+## 👤 Auteur
+
+**Nadim Coindet**  
+Master 1 Mathématiques — Sorbonne Université  
+Projet personnel en finance quantitative et gestion des risques
