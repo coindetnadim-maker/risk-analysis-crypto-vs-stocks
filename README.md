@@ -1,2 +1,2 @@
 # risk-analysis-crypto-vs-stocks
-Comparative risk analysis between traditional stocks and cryptocurrencies using Python.
+Analyse comparative du risque entre actions et cryptomonnaies avec Python.
