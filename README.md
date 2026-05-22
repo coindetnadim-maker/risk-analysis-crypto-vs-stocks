@@ -47,7 +47,7 @@
 
 ### 1. Évolution normalisée des actifs (base 100)
 
-![Évolution normalisée](Evolution normalisée des actifs (base 100).png)
+![Évolution normalisée](normalized_prices.png)
 
 ---
 
@@ -55,11 +55,11 @@
 
 #### Actions
 
-![Distributions actions](distributions des rendements et approximations gaussiennes.png)
+![Distributions actions](stock_distributions.png)
 
 #### Cryptomonnaies
 
-![Distributions cryptos](crypto distributions des rendements et approximations gaussiennes.png)
+![Distributions cryptos](crypto_distributions.png)
 
 > Observation : les distributions présentent des queues épaisses, particulièrement sur les cryptomonnaies, ce qui limite la pertinence de l’hypothèse gaussienne.
 
@@ -67,12 +67,11 @@
 
 ### 3. Matrice de corrélation
 
-![Matrice de corrélation](matrice de corrélation.png)
+![Matrice de corrélation](correlation_matrix.png)
 
 > Les cryptomonnaies restent positivement corrélées aux marchés actions, mais avec une intensité plus faible que les corrélations observées entre actions traditionnelles.
 
 ---
-
 
 ## Auteur
 Nadim Coindet — Master 1 Mathématiques, Sorbonne Université
